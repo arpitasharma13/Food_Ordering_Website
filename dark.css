@@ -251,6 +251,12 @@ p{
  bottom: 49%;
  opacity: 1;
 }
+@media (max-width: 700px){
+  .layer h3 {
+    font-size: 15px;
+  }
+}
+
 
 /* facilities */
 
